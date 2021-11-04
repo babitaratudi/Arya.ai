@@ -1,7 +1,7 @@
 # Binary Clssification using scikit-learn library
 
 ## Importing Various Modules.
-* Pandas and matplotlib modules downloaded
+* imported Pandas and matplotlib modules
 
 ## Splitted training set into train set and validation set
 * Numpy downloaded and for splitting used train_test_split from scikit-learn library.
